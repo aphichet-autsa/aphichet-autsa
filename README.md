@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Students
 --------
 
-I am a student in Digital Technology at the School of Science and Digital Arts, Suranaree University of Technology, Thailand 🇹🇭, currently studying in the field of Cloud Computing ☁️ and interested in a career as a Network Analyst.
+I am a student in Digital Technology at the School of Digital Arts and Science, Suranaree University of Technology, Thailand 🇹🇭, currently studying in the field of Cloud Computing ☁️ and interested in a career as a Network Analyst.
 
 * 🌍  I'm based in Nakhon Ratchasima , Thailand.
 * ✉️  You can contact me at [aphichetautsanew@gamil.com](mailto:aphichetautsanew@gamil.com)
